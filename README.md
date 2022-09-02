@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Tatadektep
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Tata. Nice to meet you all. 
+- 👀 I’m interested in EdTech and ESG.
 - 🌱 I’m currently learning Data Science in Python: Machine Learning. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ESG and DE&I Projects to make significant impacts by promoting diversity and opportunities for minorities.
+- 📫 How to reach me : 
+     - LinkedIn: https://www.linkedin.com/in/kantaphon-tata-vareekasem-958092152/
+     - Email:kantaphonv@gmail.com
+     - Github: @Tatadektep
 
 <!---
 Tatadektep/Tatadektep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
