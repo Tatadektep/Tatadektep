@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science in Python: Machine Learning. 
 - 💞️ I’m looking to collaborate on ESG and DE&I Projects to make significant impacts by promoting diversity and opportunities for minorities.
 - 📫 How to reach me : 
-     - LinkedIn: https://www.linkedin.com/in/kantaphon-tata-vareekasem/<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+     - LinkedIn: [*Kantaphon Vareekasem*](https://www.linkedin.com/in/kantaphon-tata-vareekasem/)
      - Email:kantaphonv@gmail.com
      - Github: @Tatadektep
 
